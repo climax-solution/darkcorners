@@ -153,19 +153,11 @@ Now go to [localhost:8080](http://localhost:8080) in your browser.
 
 <!-- CONTACT -->
 
-## Authors
+## Authorspov**
 
-👤 **Sutan Daffa Satria Hertanto**
-
-- Github: [@lagoo178](https://github.com/lagoo178)
-- LinkedIn: [sutan-daffa-satria-hertanto](https://linkedin.com/sutan-daffa-satria-hertanto-06207a15b)
-- Email: [lagooo178@gmail.com](mailto:lagooo178@gmail.com)
-
-👤 **Laila Lutfiah**
-
-- Github: [@lailalutfiah](https://github.com/lailalutfiah)
-- LinkedIn: [laila-lutfiah](https://linkedin.com/laila-lutfiah-016a751b2)
-- Email: [lailalutfiah77@gmail.com](mailto:lailalutfiah77@gmail.com)
+- Github: [@climax-solution](https://github.com/climax-solution)
+- LinkedIn: [blocklimax](https://linkedin.com/in/blocklimax)
+- Email: [blocklimax@gmail.com](mailto:blocklimax@gmail.com)
 
 ## Show your support
 
