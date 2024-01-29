@@ -151,14 +151,6 @@ Now go to [localhost:8080](http://localhost:8080) in your browser.
 - Adding collectable objects like coins and upgrades
 - Touch controls/Mobile Friendly
 
-<!-- CONTACT -->
-
-## Authorspov**
-
-- Github: [@climax-solution](https://github.com/climax-solution)
-- LinkedIn: [blocklimax](https://linkedin.com/in/blocklimax)
-- Email: [blocklimax@gmail.com](mailto:blocklimax@gmail.com)
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
